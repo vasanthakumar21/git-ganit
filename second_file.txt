@@ -1,4 +1,8 @@
 this is the second test file
+<<<<<<< HEAD
 this is vasanth here
 vasanth is a good boy
 ganit office
+=======
+this is vasanth here
+>>>>>>> parent of be9f442 ('new')
